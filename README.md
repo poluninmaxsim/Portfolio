@@ -2,5 +2,5 @@
 
 - Верстка сайта-портфолио [посмотреть](https://poluninmaxsim.github.io/Portfolio/)
 - HTML, CSS, JS
-- Aos анимация
+- AOS анимация
 - Адаптив, menu-burger
